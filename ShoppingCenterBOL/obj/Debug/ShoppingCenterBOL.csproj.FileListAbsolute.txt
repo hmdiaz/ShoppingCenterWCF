@@ -27,3 +27,15 @@ D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterBOL\
 D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.csprojResolveAssemblyReference.cache
 D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.dll
 D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.pdb
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\ShoppingCenterBOL.dll.config
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\ShoppingCenterBOL.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\ShoppingCenterBOL.pdb
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\EntityFramework.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\EntityFramework.xml
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.csprojResolveAssemblyReference.cache
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.pdb

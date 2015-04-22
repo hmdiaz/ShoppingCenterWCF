@@ -25,6 +25,20 @@ namespace ShoppingCenterWCF
                 return new CommonResult() { Success = false, ErrorMessage = "Email地址不正确" };
             }
 
+            //Check if email address is in database
+            try
+            {
+                var userCount = unitOfWork.UserRepository.Get(e => e.Email == email).Count();
+                if(userCount > 0)
+                {
+                    return new CommonResult() {Success = false, ErrorMessage = "Email地址已经存在" }; 
+                }
+            }
+            catch(Exception ee)
+            {
+                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException.Message };
+            }
+
             //Get Confirmation Code
             Guid confirmationCode = CodeUtility.GetConfirmationCode();
 
@@ -42,21 +56,21 @@ namespace ShoppingCenterWCF
                 UserInfo = null
             };
 
-            //Insert To Database
+            //Send Confirmation Email
             try
             {
-                unitOfWork.UserRepository.Insert(newUser);
-                unitOfWork.Save();
+                sendConfirmationEmail(email, confirmationCode);
             }
             catch (Exception ee)
             {
                 return new CommonResult { Success = false, ErrorMessage = ee.Message };
             }
 
-            //Send Confirmation Email
+            //Insert To Database
             try
             {
-                sendConfirmationEmail(email, confirmationCode);
+                unitOfWork.UserRepository.Insert(newUser);
+                unitOfWork.Save();
             }
             catch (Exception ee)
             {

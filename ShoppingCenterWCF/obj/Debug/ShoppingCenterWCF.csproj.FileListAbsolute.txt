@@ -34,3 +34,16 @@ D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\
 D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
 D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
 D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll.config
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.pdb
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.pdb
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.pdb
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.xml
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\zh-Hans\EntityFramework.resources.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
+D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb
