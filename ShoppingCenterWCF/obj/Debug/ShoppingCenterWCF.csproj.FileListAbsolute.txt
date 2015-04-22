@@ -1,0 +1,36 @@
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll.config
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.pdb
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.pdb
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.pdb
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.xml
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll.config
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.pdb
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.pdb
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.pdb
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.xml
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll.config
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.xml
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb

@@ -1,0 +1,36 @@
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll.config
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.pdb
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\EntityFramework.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.pdb
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\EntityFramework.xml
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.csprojResolveAssemblyReference.cache
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.dll
+E:\My Programs\ShoppingCenter\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.pdb
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll.config
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.pdb
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.pdb
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.xml
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.dll
+E:\Visual Studio 2013\Projects\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll.config
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.pdb
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.xml
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.dll
+D:\visual studio 2013\GitHub\ShoppingCenter\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.pdb
