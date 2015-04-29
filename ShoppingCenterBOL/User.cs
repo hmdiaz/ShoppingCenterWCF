@@ -23,6 +23,7 @@ namespace ShoppingCenterBOL
 
         public bool IsConfirmed { get; set; }
 
+        [StringLength(1)]
         public string UserType { get; set; }
     }
 }
