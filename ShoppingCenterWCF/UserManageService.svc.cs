@@ -29,12 +29,12 @@ namespace ShoppingCenterWCF
             try
             {
                 var userCount = unitOfWork.UserRepository.Get(e => e.Email == email).Count();
-                if(userCount > 0)
+                if (userCount > 0)
                 {
-                    return new CommonResult() {Success = false, ErrorMessage = "Email地址已经存在" }; 
+                    return new CommonResult() { Success = false, ErrorMessage = "Email地址已经存在" };
                 }
             }
-            catch(Exception ee)
+            catch (Exception ee)
             {
                 return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException.Message };
             }
@@ -221,7 +221,7 @@ namespace ShoppingCenterWCF
             //Get User By Email Address 
             try
             {
-                user = unitOfWork.UserRepository.Get(e => e.Email == email).Single();
+                user = unitOfWork.UserRepository.Get(e => e.Email == email, null, "UserInfo").Single();
             }
             catch
             {

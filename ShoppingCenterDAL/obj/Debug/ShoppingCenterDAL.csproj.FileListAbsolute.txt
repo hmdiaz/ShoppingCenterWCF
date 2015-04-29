@@ -48,3 +48,17 @@ D:\GitHub\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\zh-Hans\EntityFramework.
 D:\GitHub\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.csprojResolveAssemblyReference.cache
 D:\GitHub\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.dll
 D:\GitHub\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll.config
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterDAL.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\ShoppingCenterBOL.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.xml
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.csprojResolveAssemblyReference.cache
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterDAL\obj\Debug\ShoppingCenterDAL.pdb

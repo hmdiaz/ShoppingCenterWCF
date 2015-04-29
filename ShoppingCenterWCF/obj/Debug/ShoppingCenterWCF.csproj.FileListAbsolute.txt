@@ -47,3 +47,16 @@ D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\bin\zh-Hans\EntityFramework.resour
 D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
 D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
 D:\GitHub\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll.config
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterWCF.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterBOL.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\ShoppingCenterDAL.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\EntityFramework.xml
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\bin\zh-Hans\EntityFramework.resources.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.csprojResolveAssemblyReference.cache
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.dll
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCF\obj\Debug\ShoppingCenterWCF.pdb
