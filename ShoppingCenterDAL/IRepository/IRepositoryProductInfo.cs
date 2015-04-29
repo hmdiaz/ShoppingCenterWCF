@@ -2,7 +2,7 @@
 
 namespace ShoppingCenterDAL.IRepository
 {
-    public interface IRepositoryUser : IRepository<User>
+    public interface IRepositoryProductInfo : IRepository<ProductInfo>
     {
 
     }

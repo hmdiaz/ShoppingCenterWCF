@@ -32,21 +32,4 @@ namespace ShoppingCenterWCF
         [OperationContract]
         CommonResult ReSendConfirmationEmail(int userId);
     }
-
-    [DataContract]
-    public class CommonResult
-    {
-        [DataMember]
-        public bool Success { get; set; }
-
-        [DataMember]
-        public string ErrorMessage { get; set; }
-    }
-
-    [DataContract]
-    public class SignInResult : CommonResult
-    {
-        [DataMember]
-        public User User { get; set; }
-    }
 }

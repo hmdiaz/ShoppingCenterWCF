@@ -16,6 +16,8 @@ namespace ShoppingCenterBOL
 
         public Product Product { get; set; }
 
+        public decimal Price { get; set; }
+
         public int ViewTimes { get; set; }
 
         public int BuyTimes { get; set; }

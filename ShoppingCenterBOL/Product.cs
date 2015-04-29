@@ -24,10 +24,15 @@ namespace ShoppingCenterBOL
         public string ProductImage { get; set; }
 
         [ForeignKey("Provider")]
+        [Required]
         public int ProviderId { get; set; }
-
         public Provider Provider { get; set; }
 
+        [ForeignKey("Category")]
+        [Required]
+        public int CategoryId { get; set; }
+        public Category Category { get; set; }
+
         public ProductInfo ProductInfo { get; set; }
-    } 
+    }
 }

@@ -29,7 +29,7 @@ namespace ShoppingCenterDAL
         {
             get
             {
-                if(this.userInfoRepository == null)
+                if (this.userInfoRepository == null)
                 {
                     this.userInfoRepository = new RepositoryUserInfo(context);
                 }
@@ -37,6 +37,58 @@ namespace ShoppingCenterDAL
             }
         }
         private RepositoryUserInfo userInfoRepository;
+
+        public RepositoryProduct ProductRepository
+        {
+            get
+            {
+                if (this.productRepository == null)
+                {
+                    this.productRepository = new RepositoryProduct(context);
+                }
+                return productRepository;
+            }
+        }
+        private RepositoryProduct productRepository;
+
+        public RepositoryProductInfo ProductInfoRepository
+        {
+            get
+            {
+                if (this.productInfoRepository == null)
+                {
+                    this.productInfoRepository = new RepositoryProductInfo(context);
+                }
+                return productInfoRepository;
+            }
+        }
+        private RepositoryProductInfo productInfoRepository;
+
+        public RepositoryProvider ProviderRepository
+        {
+            get
+            {
+                if (this.providerRepository == null)
+                {
+                    this.providerRepository = new RepositoryProvider(context);
+                }
+                return providerRepository;
+            }
+        }
+        private RepositoryProvider providerRepository;
+
+        public RepositoryCategory CategoryRepository
+        {
+            get
+            {
+                if (this.categoryRepository == null)
+                {
+                    this.categoryRepository = new RepositoryCategory(context);
+                }
+                return categoryRepository;
+            }
+        }
+        private RepositoryCategory categoryRepository;
 
         public void Save()
         {
