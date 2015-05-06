@@ -24,7 +24,7 @@ namespace ShoppingCenterWCF
         CommonResult EditProduct(Product product);
 
         [OperationContract]
-        CommonResult AddCategory(Category category);
+        CommonResult AddCategory(string categoryName, int parentCategoryId);
 
         [OperationContract]
         CommonResult RemoveCategory(Category category);
@@ -33,6 +33,9 @@ namespace ShoppingCenterWCF
         CommonResult EditCategory(Category category);
 
         [OperationContract]
-        IEnumerable<Category> GetAllCategory();
+        IEnumerable<KeyValuePair<int, string>> GetAllCategory();
+
+        [OperationContract]
+        CategoriesResult GetCategory();
     }
 }

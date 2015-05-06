@@ -7,12 +7,13 @@ namespace ShoppingCenterBOL
         public ShoppingCenterDBContext()
             : base("name=ShoppingCenterDBContext")
         {
+
         }
 
-        public virtual DbSet<User> Users { get; set; }
-        public virtual DbSet<UserInfo> UserInfoes { get; set; }
-        public virtual DbSet<Product> Products { get; set; }
-        public virtual DbSet<ProductInfo> ProductInfoes { get; set; }
-        public virtual DbSet<Provider> Providers { get; set; }
+        public  DbSet<User> Users { get; set; }
+        public  DbSet<UserInfo> UserInfoes { get; set; }
+        public  DbSet<Product> Products { get; set; }
+        public  DbSet<ProductInfo> ProductInfoes { get; set; }
+        public  DbSet<Provider> Providers { get; set; }
     }
 }

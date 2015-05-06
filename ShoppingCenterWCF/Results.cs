@@ -7,7 +7,7 @@ using System.Web;
 
 namespace ShoppingCenterWCF
 {
-    [DataContract]
+    [DataContract(IsReference = true)]
     public class CommonResult
     {
         [DataMember]
@@ -29,5 +29,12 @@ namespace ShoppingCenterWCF
     {
         [DataMember]
         public ICollection<Product> Products { get; set; }
+    }
+
+    [DataContract(IsReference = true)]
+    public class CategoriesResult : CommonResult
+    {
+        [DataMember]
+        public IEnumerable<Category> Categories { get; set; }
     }
 }

@@ -48,6 +48,6 @@ E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\EntityFramework.xml
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\EntityFramework.SqlServer.xml
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
-E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.csprojResolveAssemblyReference.cache
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.dll
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.csprojResolveAssemblyReference.cache

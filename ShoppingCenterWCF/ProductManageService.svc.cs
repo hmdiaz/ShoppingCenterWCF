@@ -1,4 +1,5 @@
-﻿using ShoppingCenterDAL;
+﻿using ShoppingCenterBOL;
+using ShoppingCenterDAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -59,7 +60,34 @@ namespace ShoppingCenterWCF
             return new CommonResult() { Success = true };
         }
 
-        public CommonResult AddCategory(ShoppingCenterBOL.Category category)
+
+        public CommonResult AddCategory(string categoryName, int parentCategoryId)
+        {
+            Category category = new Category()
+            {
+                CategoryName = categoryName,
+                Parent = null,
+                //Children = null,
+                Products = null,
+            };
+
+            //判断parentCategoryId是否存在
+            if (parentCategoryId > 0)
+            {
+                //ParentId >0 有可能存在
+                //ParentId 是否有对应 Category
+                var parentCategory = unitOfWork.CategoryRepository.GetById(parentCategoryId);
+
+                if (parentCategory != null)
+                {
+                    //Parent Category 存在
+                    category.Parent = parentCategory;
+                }
+            }
+            return AddCategory(category);
+        }
+
+        private CommonResult AddCategory(ShoppingCenterBOL.Category category)
         {
             try
             {
@@ -101,9 +129,22 @@ namespace ShoppingCenterWCF
             return new CommonResult() { Success = true };
         }
 
-        public IEnumerable<ShoppingCenterBOL.Category> GetAllCategory()
+        public IEnumerable<KeyValuePair<int, string>> GetAllCategory()
         {
-            return unitOfWork.CategoryRepository.Get(null, e => e.OrderBy(f => f.CategoryId));
+            return unitOfWork.CategoryRepository.Get(null, e => e.OrderBy(f => f.CategoryId)).Select(e => new KeyValuePair<int, string>(e.CategoryId, e.CategoryName));
+        }
+
+        public CategoriesResult GetCategory()
+        {
+            try
+            {
+                var list = unitOfWork.CategoryRepository.Get();
+                return new CategoriesResult() { Success = true, Categories = list };
+            }
+            catch(Exception ee)
+            {
+                return new CategoriesResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException.Message };
+            }
         }
     }
 }
