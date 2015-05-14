@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShoppingCenterBOL
+namespace ShoppingCenterBOL.Entities
 {
     public class Provider
     {
@@ -16,6 +16,7 @@ namespace ShoppingCenterBOL
         [Required]
         public string ProviderName { get; set; }
 
+        //----------------Navigation Property----------------//
         public ICollection<Product> Products { get; set; }
     }
 }

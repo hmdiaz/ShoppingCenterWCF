@@ -90,6 +90,45 @@ namespace ShoppingCenterDAL
         }
         private RepositoryCategory categoryRepository;
 
+        public RepositoryOrder OrderRepository
+        {
+            get
+            {
+                if (this.orderRepository == null)
+                {
+                    this.orderRepository = new RepositoryOrder(context);
+                }
+                return orderRepository;
+            }
+        }
+        private RepositoryOrder orderRepository;
+
+        public RepositoryOrderItem OrderItemRepository
+        {
+            get
+            {
+                if (this.orderItemRepository == null)
+                {
+                    this.orderItemRepository = new RepositoryOrderItem(context);
+                }
+                return orderItemRepository;
+            }
+        }
+        private RepositoryOrderItem orderItemRepository;
+
+        public RepositoryShoppingCart ShoppingCartRepository
+        {
+            get
+            {
+                if (this.shoppingCartRepository == null)
+                {
+                    this.shoppingCartRepository = new RepositoryShoppingCart(context);
+                }
+                return shoppingCartRepository;
+            }
+        }
+        private RepositoryShoppingCart shoppingCartRepository;
+
         public void Save()
         {
             context.SaveChanges();

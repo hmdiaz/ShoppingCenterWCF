@@ -1,4 +1,4 @@
-﻿using ShoppingCenterBOL;
+﻿using ShoppingCenterBOL.Entities;
 
 namespace ShoppingCenterDAL.IRepository
 {

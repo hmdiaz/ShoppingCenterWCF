@@ -4,9 +4,9 @@ using ShoppingCenterDAL.IRepository;
 
 namespace ShoppingCenterDAL.Repository
 {
-    public class RepositoryCategory : Repository<Category>, IRepositoryCategory
+    public class RepositoryOrder : Repository<Order>, IRepositoryOrder
     {
-        public RepositoryCategory(ShoppingCenterDBContext context)
+        public RepositoryOrder(ShoppingCenterDBContext context)
             : base(context)
         {
 

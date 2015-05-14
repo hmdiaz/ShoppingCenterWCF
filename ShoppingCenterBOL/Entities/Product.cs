@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShoppingCenterBOL
+namespace ShoppingCenterBOL.Entities
 {
     public class Product
     {
@@ -20,17 +20,9 @@ namespace ShoppingCenterBOL
         [StringLength(500)]
         public string ProductDescription { get; set; }
 
-        [StringLength(100)]
-        public string ProductImage { get; set; }
-
-        [ForeignKey("Provider")]
-        [Required]
-        public int ProviderId { get; set; }
+        //----------------Navigation Property----------------//
         public Provider Provider { get; set; }
 
-        [ForeignKey("Category")]
-        [Required]
-        public int CategoryId { get; set; }
         public Category Category { get; set; }
 
         public ProductInfo ProductInfo { get; set; }

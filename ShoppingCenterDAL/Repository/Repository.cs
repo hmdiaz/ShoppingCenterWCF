@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace ShoppingCenterDAL.Repository
 {
-    public class Repository<TEntity> : IRepository<TEntity>
+    public abstract class Repository<TEntity> : IRepository<TEntity>
         where TEntity : class
     {
         internal ShoppingCenterDBContext context;
