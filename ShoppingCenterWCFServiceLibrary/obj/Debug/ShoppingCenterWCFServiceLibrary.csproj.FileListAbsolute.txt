@@ -10,3 +10,4 @@ E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCFServiceLibrary\bin\Debug\zh-Ha
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCFServiceLibrary\obj\Debug\ShoppingCenterWCFServiceLibrary.csprojResolveAssemblyReference.cache
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCFServiceLibrary\obj\Debug\ShoppingCenterWCFServiceLibrary.dll
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCFServiceLibrary\obj\Debug\ShoppingCenterWCFServiceLibrary.pdb
+E:\My Programs\ShoppingCenterWCF\ShoppingCenterWCFServiceLibrary\bin\Debug\ShoppingCenterWCFServiceLibrary.dll.config

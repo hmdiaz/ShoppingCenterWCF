@@ -1,4 +1,5 @@
-﻿using ShoppingCenterBOL;
+﻿using ShoppingCenterBOL.Entities;
+using ShoppingCenterWCFServiceLibrary.DTO;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
@@ -14,27 +15,19 @@ namespace ShoppingCenterWCFServiceLibrary
         public string ErrorMessage { get; set; }
     }
 
-    //
+    //Sign In Result
     [DataContract]
     public class SignInResult : CommonResult
     {
         [DataMember]
-        public User User { get; set; }
-    }
-
-    //
-    [DataContract]
-    public class ProductsResult : CommonResult
-    {
-        [DataMember]
-        public ICollection<Product> Products { get; set; }
+        public DTOUser User { get; set; }
     }
 
     //Category Results
-    [DataContract(IsReference = true)]
+    [DataContract]
     public class CategoriesResult : CommonResult
     {
         [DataMember]
-        public IEnumerable<Category> Categories { get; set; }
+        public IEnumerable<DTOCategory> Categories { get; set; }
     }
 }

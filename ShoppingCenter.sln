@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterDAL", "Shoppi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterBOL", "ShoppingCenterBOL\ShoppingCenterBOL.csproj", "{73756F87-428A-49EB-B561-97EF2A48C15C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterWCF", "ShoppingCenterWCF\ShoppingCenterWCF.csproj", "{7EA82385-0DFE-469C-846B-6AC865D40D7F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterWCFServiceLibrary", "ShoppingCenterWCFServiceLibrary\ShoppingCenterWCFServiceLibrary.csproj", "{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterWCFServiceHost", "ShoppingCenterWCFServiceHost\ShoppingCenterWCFServiceHost.csproj", "{D5758FE8-BB8A-4826-8EA2-92D2A89D971B}"
@@ -27,10 +25,6 @@ Global
 		{73756F87-428A-49EB-B561-97EF2A48C15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73756F87-428A-49EB-B561-97EF2A48C15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73756F87-428A-49EB-B561-97EF2A48C15C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7EA82385-0DFE-469C-846B-6AC865D40D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EA82385-0DFE-469C-846B-6AC865D40D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EA82385-0DFE-469C-846B-6AC865D40D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EA82385-0DFE-469C-846B-6AC865D40D7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -50,4 +50,3 @@ E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\zh-Hans\EntityFrame
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.dll
 E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.pdb
-E:\My Programs\ShoppingCenterWCF\ShoppingCenterBOL\obj\Debug\ShoppingCenterBOL.csprojResolveAssemblyReference.cache
