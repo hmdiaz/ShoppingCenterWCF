@@ -36,7 +36,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Get Confirmation Code
@@ -67,7 +67,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Insert To Database
@@ -78,7 +78,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Success
@@ -123,7 +123,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Success
@@ -144,7 +144,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             return new CommonResult() { Success = true };
@@ -165,7 +165,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             return new CommonResult() { Success = true };
@@ -200,7 +200,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Success
@@ -268,7 +268,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new SignInResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new SignInResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //返回结果
@@ -285,7 +285,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Is Active
@@ -301,7 +301,7 @@ namespace ShoppingCenterWCFServiceLibrary
             }
             catch (Exception ee)
             {
-                return new CommonResult() { Success = false, ErrorMessage = ee.Message + Environment.NewLine + ee.InnerException == null ? "" : ee.InnerException.Message };
+                return new CommonResult() { Success = false, ErrorMessage = CodeUtility.GetErrorMessage(ee) };
             }
 
             //Success

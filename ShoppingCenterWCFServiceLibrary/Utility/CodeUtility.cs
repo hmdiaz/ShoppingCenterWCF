@@ -31,5 +31,17 @@ namespace ShoppingCenterWCFServiceLibrary.Utility
 
             return sb.ToString();
         }
+
+        public static string GetErrorMessage(Exception ee)
+        {
+            if (ee.InnerException == null)
+            {
+                return ee.Message;
+            }
+            else
+            {
+                return ee.Message + Environment.NewLine + ee.InnerException.Message;
+            } 
+        }
     }
 }

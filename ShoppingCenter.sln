@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterBOL", "Shoppi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterWCFServiceLibrary", "ShoppingCenterWCFServiceLibrary\ShoppingCenterWCFServiceLibrary.csproj", "{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCenterWCFServiceHost", "ShoppingCenterWCFServiceHost\ShoppingCenterWCFServiceHost.csproj", "{D5758FE8-BB8A-4826-8EA2-92D2A89D971B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FB48A67-5337-492D-A0F2-B73AFFF96FB4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D5758FE8-BB8A-4826-8EA2-92D2A89D971B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5758FE8-BB8A-4826-8EA2-92D2A89D971B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5758FE8-BB8A-4826-8EA2-92D2A89D971B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5758FE8-BB8A-4826-8EA2-92D2A89D971B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

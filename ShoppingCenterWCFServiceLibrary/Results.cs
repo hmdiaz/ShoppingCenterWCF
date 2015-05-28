@@ -25,9 +25,26 @@ namespace ShoppingCenterWCFServiceLibrary
 
     //Category Results
     [DataContract]
-    public class CategoriesResult : CommonResult
+    public class CategoryResult : CommonResult
     {
         [DataMember]
         public IEnumerable<DTOCategory> Categories { get; set; }
+    }
+
+    //Provider Results
+    [DataContract]
+    public class ProviderResult : CommonResult
+    {
+        [DataMember]
+        public DTOProvider Provider { get; set; }
+    }
+
+    //Product Result
+    [DataContract]
+    public class ProductResult : CommonResult
+    {
+        [DataMember]
+        public DTOProduct Product { get; set; }
+
     }
 }
